@@ -1,8 +1,11 @@
 {
-  "name": "InstaDev",
+  "name": "instadev",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start":"node index.js"
+  },
   "dependencies": {
     "axios": "^0.19.0",
     "cors": "^2.8.5",
