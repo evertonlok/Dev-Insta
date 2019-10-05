@@ -1,13 +1,9 @@
 
-No diretório do REACT,rode:
+No diretório RODE:
 
 ### `npm start`
 <br>
 abra http://localhost:3000 para visualizar no navegador.
 <br>
-No diretório da API,rode:
-
-
-### `node index.js`
 
 
