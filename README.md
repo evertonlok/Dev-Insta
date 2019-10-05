@@ -1,5 +1,13 @@
+Na pasta Atual digite.
 
-No diretório RODE:
+### `cd Dev-Insta`
+
+<br> 
+Instale as dependencias.
+
+### `npm install`
+<br>
+Rode a aplicação.
 
 ### `npm start`
 <br>
